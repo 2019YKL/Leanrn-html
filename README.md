@@ -2,5 +2,4 @@
 
 ## 学呀学Html
 
-为啥这里就是不显示呢
-![](https://octodex.github.com/images/NUX_Octodex.gif)
+![](https://s2.loli.net/2022/10/27/zuwi83TgWPFbZEQ.webp)
