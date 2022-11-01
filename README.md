@@ -2,4 +2,4 @@
 
 ## 学呀学Html
 
-![](https://octodex.github.com/images/NUX_Octodex.gif）
+![](https://octodex.github.com/images/NUX_Octodex.gif)
